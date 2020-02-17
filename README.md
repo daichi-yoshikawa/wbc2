@@ -1,6 +1,13 @@
 # wbc2
 New C++ library for Whole Body Control.
 
+This is gonna be refactored version of ahl_wbc.
+
+Developing after work now. Since need to re-study Robotics
+it will take time.
+
+Wait till you see it.
+
 # TODO Before compiling wbc2
 ## Install compiler
 ```
