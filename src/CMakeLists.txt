@@ -1,6 +1,7 @@
 add_library(wbc2
   robot/robot.cpp
   robot/manipulator.cpp
+  robot/yaml_parser.cpp
   controller/controller.cpp
 )
 
